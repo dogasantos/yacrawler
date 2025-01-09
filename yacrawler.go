@@ -1,5 +1,5 @@
 package main
-
+// github.com/dogasantos/yacrawler
 import (
 	"bufio"
 	"context"
